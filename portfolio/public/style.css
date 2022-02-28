@@ -1,0 +1,21 @@
+.monTitre{
+    margin-bottom: 20px;
+}
+.maColonne{
+    margin-top:35px;
+}
+#colonneDroite{
+    margin-bottom: 35px;
+}
+.container{
+    margin-top: 15px!important;
+    margin-bottom: 15px!important;
+}
+
+body{
+    color: #b2b5b9;
+    background-color: #212529;
+}
+.mesLiens{
+    color: #b2b5b9;
+}
