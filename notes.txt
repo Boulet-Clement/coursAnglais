@@ -1,0 +1,38 @@
+Bonjour,
+je suis clément boulet, étudiant en développement web à l'iut de Nancy.
+
+Saviez vous qu'aujourd'hui, en 2022 il y a plus de X sites en ligne ?
+Et si aujourd'hui on apprennez à mettre le notre en ligne sur un VPS ?
+
+Vous l'avez compris, le sujet de la video du jour concerne la mise en ligne d'une site web sur un VPS
+
+Pour commencer il faut : 
+    Un site à mettre en ligne  
+    Un VPS
+
+Pour mon VPS, j'ai choisi un VPS chez IONOS à 1,40€ par mois.
+
+// Aller sur IONOS, se connecter
+
+voici le site de IONOS, on se connecte, 
+on va sur serveur and clound
+
+there is my VPS running ubuntu 20.04
+
+my ip adress, the user, here we can find the initial password
+
+Now, we have our website to put on the VPS.
+
+you have to download FileZila, next step is to connect to the VPS
+clicking on it
+enter the host etc
+
+here we are on the root's home,
+click here to go back
+go on var/www/html
+
+
+
+So, now, we can open a Command Line Interface to connect the VPS 
+with SSH "protocol", we enter our username at adresse IP, press enter
+now the password
