@@ -41,7 +41,8 @@ now the password
 Hi everyone,
 for those who don't know me, i'm Clément Boulet, student in web developement at Nancy university.
 
-Did you know that more than x (1,3 milliard ? ) websites are online today ? 
+Did you know that nowaday more than 1.18 billion websites are online ? 
+how about learning how to put yours online
 Today we will se how we can put a local website online
 
 First of all, we need 
@@ -80,3 +81,7 @@ with SSH "protocol", we enter our username at adresse IP, press enter
 now the password
 
 (aller sur /etc/apache2/websites-availables) et edite site.conf
+
+ apachectl configtest
+
+ systemctl reload apache2
